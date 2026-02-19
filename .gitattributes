@@ -5,9 +5,16 @@ public class Main {
         Repository repo = new Repository();
 
         
-        repo.addStudent(new Student(0, "Alice", "Smith", 20, "AliceSmith@gmail.com", 6391234, "BSIT", 1, 3.8, "2026"));
-        repo.addStudent(new Student(0, "Bob", "Jones", 21, "Bob@gmail.com", 63454545, "BSEE", 2, 4.1, "2026"));
-        repo.addStudent(new Student(0, "Reymark", "Magsipoc", 21, "Reymark@gmail.com", 63145151, "BSIT", 2, 4.1, "2026"));
+        repo.addStudent(new Student(0, "Ishigami", "Ree", 21, "kazeree@gmail.com", 63145151, "BSIT", 2, 4.1, "02/10/2026"));
+        repo.addStudent(new Student(0, "Alice", "Guo", 20, "alice@gmail.com", 63215566, "BSCS", 1, 3.5, "02/12/2026"));
+        repo.addStudent(new Student(0, "Bob", "Reyes", 22, "bob@gmail.com", 63554433, "BSIT", 3, 2.8, "02/12/2026"));
+        repo.addStudent(new Student(0, "Charlie", "Santos", 19, "charlie@gmail.com", 63998877, "BSIS", 1, 3.9, "02/13/2026"));
+        repo.addStudent(new Student(0, "Diana", "Cruz", 21, "diana@gmail.com", 63112233, "BSCS", 2, 4.0, "02/14/2026"));
+        repo.addStudent(new Student(0, "Ethan", "Mercado", 23, "ethan@gmail.com", 63776655, "BSIT", 4, 3.2, "02/15/2026"));
+        repo.addStudent(new Student(0, "Fiona", "Dizon", 20, "fiona@gmail.com", 63443322, "BSIS", 2, 2.5, "02/15/2026"));
+        repo.addStudent(new Student(0, "George", "Luna", 21, "george@gmail.com", 63887766, "BSCS", 3, 3.7, "02/16/2026"));
+        repo.addStudent(new Student(0, "Hannah", "Velasco", 22, "hannah@gmail.com", 63221100, "BSIT", 3, 3.1, "02/17/2026"));
+        repo.addStudent(new Student(0, "Ian", "Aquino", 19, "ian@gmail.com", 63665544, "BSCS", 1, 3.6, "02/18/2026"));
 
    
         System.out.println("--- Master List ---");
