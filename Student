@@ -1,4 +1,4 @@
-public class Student {
+public class Nigga {
     
     private String studentID;
     private String firstName, lastName,
@@ -48,6 +48,6 @@ public class Student {
        System.out.println("ID: " + studentID +
        " | Name: " + firstName + " " + lastName + " | GPA:" + gpa);
             
-        }
+     }
 
-}
+ }
